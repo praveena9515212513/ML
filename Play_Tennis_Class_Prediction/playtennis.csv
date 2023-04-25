@@ -1,0 +1,15 @@
+Day,Outlook,Temp,Humidity,Windy,Class
+1,sunny,hot,high,weak,N
+2,sunny,hot,high,strong,N
+3,overcast,hot,high,weak,P
+4,rain,mild,high,weak,P
+5,rain,cool,normal,weak,P
+6,rain,cool,normal,strong,N
+7,overcast,cool,normal,strong,P
+8,sunny,mild,high,weak,N
+9,sunny,cool,normal,weak,P
+10,rain,mild,normal,weak,P
+11,sunny,mild,normal,strong,P
+12,overcast,mild,high,strong,P
+13,overcast,hot,normal,weak,P
+14,rain,mild,high,strong,N
